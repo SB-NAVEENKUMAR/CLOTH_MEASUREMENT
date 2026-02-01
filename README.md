@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FITQUEST-360
 
 ## PROJECT OBJECTIVE
@@ -26,3 +27,7 @@ Build an AI-driven 3D tailoring and gaming ecosystem.
     npm install
     npm run dev
     ```
+=======
+# CLOTH_MEASUREMENT
+This project wass measure the dress size based on the give input images.
+>>>>>>> 82ec9023be17ec009fed6f720db81fd9e2393421
